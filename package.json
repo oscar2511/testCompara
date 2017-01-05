@@ -1,0 +1,22 @@
+{
+  "name": "testcompara",
+  "version": "1.0.0",
+  "description": "Code test",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ubibaldo/testCompara.git"
+  },
+  "author": "Oscar Rodriguez Almonacid",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.3"
+  },
+  "bugs": {
+    "url": "https://github.com/ubibaldo/testCompara/issues"
+  },
+  "homepage": "https://github.com/ubibaldo/testCompara#readme"
+}
